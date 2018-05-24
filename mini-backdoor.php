@@ -329,7 +329,7 @@ if($_GET['view']) {
 	}
 }
 
-echo "<br><br><font face='calibri'>&copy; </font>".date('Y')." <a href='http://fb.com/Yrid06' target='_blank'>Yrid06</a> - <a href='http://fb.com/T1KUS90T' target='_blank'>T1KUS90T</a>.";
+echo "<br><br><font face='calibri'>&copy; </font>".date('Y')." <a href='http://fb.com/iamkuja' target='_blank'>Yrid06</a> - <a href='http://fb.com/T1KUS90T' target='_blank'>T1KUS90T</a>.";
 ?>
 </body>
 </html>
